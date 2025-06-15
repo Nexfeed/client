@@ -1,3 +1,3 @@
-package com.nexfeed.poc
+package com.nexfeed.client
 
 class MainActivity : TauriActivity()

@@ -1,8 +1,8 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "poc",
+  "productName": "Nexfeed",
   "version": "0.1.0",
-  "identifier": "com.nexfeed.poc",
+  "identifier": "com.nexfeed.client",
   "build": {
     "frontendDist": "../build",
     "devUrl": "http://localhost:5173",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "poc",
+        "title": "Nexfeed",
         "width": 800,
         "height": 600,
         "resizable": true,
